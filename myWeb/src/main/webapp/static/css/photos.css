@@ -1,0 +1,9 @@
+.screen {
+    width: 1200px;
+    height: 600px;
+    position: absolute;
+    left:65%;
+    margin-top:0px;
+    margin-left:-600px;
+    border:1px solid #FFFFFF;
+}
